@@ -13,6 +13,7 @@
  *= require_tree .
  *= require_self
  */
+ 
 body {
     background-color: #fff;
     color: #333;
@@ -25,9 +26,4 @@ body {
 a {
   color: #000;
 }
-
-/*h1,p,a {*/
-/*  font-family: verdana, arial, helvetica, sans-serif;*/
-/*  color: #333;*/
-/*}*/
 
